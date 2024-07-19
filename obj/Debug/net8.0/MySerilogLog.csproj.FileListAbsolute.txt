@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\DataBaseLogApp\MySerilogLog\bin\Debug\net8.0\MySerilogLog.deps.json
+C:\Users\Dell\source\repos\DataBaseLogApp\MySerilogLog\bin\Debug\net8.0\MySerilogLog.dll
+C:\Users\Dell\source\repos\DataBaseLogApp\MySerilogLog\bin\Debug\net8.0\MySerilogLog.pdb
+C:\Users\Dell\source\repos\DataBaseLogApp\MySerilogLog\obj\Debug\net8.0\MySerilogLog.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\DataBaseLogApp\MySerilogLog\obj\Debug\net8.0\MySerilogLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\DataBaseLogApp\MySerilogLog\obj\Debug\net8.0\MySerilogLog.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\DataBaseLogApp\MySerilogLog\obj\Debug\net8.0\MySerilogLog.AssemblyInfo.cs
+C:\Users\Dell\source\repos\DataBaseLogApp\MySerilogLog\obj\Debug\net8.0\MySerilogLog.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\DataBaseLogApp\MySerilogLog\obj\Debug\net8.0\MySerilogLog.dll
+C:\Users\Dell\source\repos\DataBaseLogApp\MySerilogLog\obj\Debug\net8.0\refint\MySerilogLog.dll
+C:\Users\Dell\source\repos\DataBaseLogApp\MySerilogLog\obj\Debug\net8.0\MySerilogLog.pdb
+C:\Users\Dell\source\repos\DataBaseLogApp\MySerilogLog\obj\Debug\net8.0\ref\MySerilogLog.dll
